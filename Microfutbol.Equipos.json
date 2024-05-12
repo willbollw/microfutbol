@@ -15,4 +15,22 @@
     "$oid": "66410be42f8a2a7de1f3ffad"
   },
   "nombre": "Águilas"
+},
+{
+  "_id": {
+    "$oid": "6641379992b58760886003c3"
+  },
+  "entrenador_id": {
+    "$oid": "6641373992b58760886003c1"
+  },
+  "nombre": "Milán"
+},
+{
+  "_id": {
+    "$oid": "664137be92b58760886003c4"
+  },
+  "entrenador_id": {
+    "$oid": "6641376792b58760886003c2"
+  },
+  "nombre": "Huracanes"
 }]

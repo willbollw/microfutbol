@@ -2,19 +2,39 @@
   "_id": {
     "$oid": "6640fb9fd64580bae816f529"
   },
-  "jugados": 1,
+  "jugados": 2,
   "ganados": 1,
   "empatados": 0,
-  "perdidos": 0,
+  "perdidos": 1,
   "puntos": 3
 },
 {
   "_id": {
     "$oid": "66410c152f8a2a7de1f3ffae"
   },
-  "jugados": 1,
-  "ganados": 0,
+  "jugados": 2,
+  "ganados": 1,
   "empatados": 0,
   "perdidos": 1,
-  "puntos": 0
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "6641379992b58760886003c3"
+  },
+  "empatados": 0,
+  "ganados": 0,
+  "jugados": 2,
+  "perdidos": 2,
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "664137be92b58760886003c4"
+  },
+  "empatados": 0,
+  "ganados": 2,
+  "jugados": 2,
+  "perdidos": 0,
+  "puntos": 6
 }]

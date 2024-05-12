@@ -15,4 +15,22 @@
   "historial": "Entrenador nivel 1 desde 2014",
   "nacionalidad": "Colombiana",
   "nombre": "Javier Bolaños"
+},
+{
+  "_id": {
+    "$oid": "6641373992b58760886003c1"
+  },
+  "fecha_nacimiento": "1975-08-09",
+  "historial": "Entrenador nivel 1 desde 1987",
+  "nacionalidad": "Colombiana",
+  "nombre": "Jorge Hernández"
+},
+{
+  "_id": {
+    "$oid": "6641376792b58760886003c2"
+  },
+  "fecha_nacimiento": "1998-10-04",
+  "historial": "Enrenador desde 2020",
+  "nacionalidad": "Colombiana",
+  "nombre": "Martín López"
 }]

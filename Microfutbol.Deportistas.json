@@ -21,4 +21,364 @@
   "nacionalidad": "Colombiana",
   "nombre": "Jorge Álvarez",
   "posicion": "Arquero"
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6b9"
+  },
+  "nombre": "Carlos Rojas",
+  "fecha_nacimiento": "1995-08-12",
+  "nacionalidad": "Colombiana",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6ba"
+  },
+  "nombre": "Juan Martínez",
+  "fecha_nacimiento": "1990-01-16",
+  "nacionalidad": "Mexicana",
+  "posicion": "Portero",
+  "equipo_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6bb"
+  },
+  "nombre": "Alejandro Fernández",
+  "fecha_nacimiento": "1993-03-22",
+  "nacionalidad": "Española",
+  "posicion": "Defensa",
+  "equipo_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6bc"
+  },
+  "nombre": "Sergio Ramos",
+  "fecha_nacimiento": "1998-04-10",
+  "nacionalidad": "Española",
+  "posicion": "Defensa",
+  "equipo_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6bd"
+  },
+  "nombre": "Lucas Pérez",
+  "fecha_nacimiento": "1997-05-14",
+  "nacionalidad": "Argentino",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6be"
+  },
+  "nombre": "Miguel Ángel Ruiz",
+  "fecha_nacimiento": "1992-07-19",
+  "nacionalidad": "Peruano",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6bf"
+  },
+  "nombre": "Fernando Torres",
+  "fecha_nacimiento": "1991-09-20",
+  "nacionalidad": "Española",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c0"
+  },
+  "nombre": "Oscar Jiménez",
+  "fecha_nacimiento": "1996-10-05",
+  "nacionalidad": "Mexicana",
+  "posicion": "Portero",
+  "equipo_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c1"
+  },
+  "nombre": "Pablo Escobar",
+  "fecha_nacimiento": "1989-12-13",
+  "nacionalidad": "Colombiana",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c2"
+  },
+  "nombre": "Andrés Guardado",
+  "fecha_nacimiento": "1994-11-28",
+  "nacionalidad": "Mexicana",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c3"
+  },
+  "nombre": "Diego López",
+  "fecha_nacimiento": "1988-06-07",
+  "nacionalidad": "Española",
+  "posicion": "Portero",
+  "equipo_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c4"
+  },
+  "nombre": "Gabriel Batistuta",
+  "fecha_nacimiento": "1999-02-01",
+  "nacionalidad": "Argentino",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c5"
+  },
+  "nombre": "Leonardo Bonucci",
+  "fecha_nacimiento": "1995-05-01",
+  "nacionalidad": "Italiano",
+  "posicion": "Defensa",
+  "equipo_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c6"
+  },
+  "nombre": "Carlos Tevez",
+  "fecha_nacimiento": "1990-02-05",
+  "nacionalidad": "Argentino",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c7"
+  },
+  "nombre": "Ángel Di María",
+  "fecha_nacimiento": "1987-02-14",
+  "nacionalidad": "Argentino",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "6641379992b58760886003c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c8"
+  },
+  "nombre": "Mario Balotelli",
+  "fecha_nacimiento": "1990-08-12",
+  "nacionalidad": "Italiano",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "6641379992b58760886003c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6c9"
+  },
+  "nombre": "Iker Casillas",
+  "fecha_nacimiento": "1981-05-20",
+  "nacionalidad": "Española",
+  "posicion": "Portero",
+  "equipo_id": {
+    "$oid": "6641379992b58760886003c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6ca"
+  },
+  "nombre": "David Beckham",
+  "fecha_nacimiento": "1975-05-02",
+  "nacionalidad": "Británica",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "6641379992b58760886003c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6cb"
+  },
+  "nombre": "Zinedine Zidane",
+  "fecha_nacimiento": "1972-06-23",
+  "nacionalidad": "Francesa",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "6641379992b58760886003c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6cc"
+  },
+  "nombre": "Lionel Messi",
+  "fecha_nacimiento": "1987-06-24",
+  "nacionalidad": "Argentino",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "6641379992b58760886003c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6cd"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "fecha_nacimiento": "1985-02-05",
+  "nacionalidad": "Portuguesa",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "6641379992b58760886003c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6ce"
+  },
+  "nombre": "Neymar Jr.",
+  "fecha_nacimiento": "1992-02-05",
+  "nacionalidad": "Brasileña",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "6641379992b58760886003c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6cf"
+  },
+  "nombre": "Luis Suárez",
+  "fecha_nacimiento": "1987-01-24",
+  "nacionalidad": "Uruguaya",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "664137be92b58760886003c4"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6d0"
+  },
+  "nombre": "Andrés Iniesta",
+  "fecha_nacimiento": "1984-05-11",
+  "nacionalidad": "Española",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "664137be92b58760886003c4"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6d1"
+  },
+  "nombre": "Xavi Hernández",
+  "fecha_nacimiento": "1980-01-25",
+  "nacionalidad": "Española",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "664137be92b58760886003c4"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6d2"
+  },
+  "nombre": "Gerard Piqué",
+  "fecha_nacimiento": "1987-02-02",
+  "nacionalidad": "Española",
+  "posicion": "Defensa",
+  "equipo_id": {
+    "$oid": "664137be92b58760886003c4"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6d3"
+  },
+  "nombre": "Eden Hazard",
+  "fecha_nacimiento": "1991-01-07",
+  "nacionalidad": "Belga",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "664137be92b58760886003c4"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6d4"
+  },
+  "nombre": "Sergio Agüero",
+  "fecha_nacimiento": "1988-06-02",
+  "nacionalidad": "Argentino",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "664137be92b58760886003c4"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6d5"
+  },
+  "nombre": "Ángel Di María",
+  "fecha_nacimiento": "1987-02-14",
+  "nacionalidad": "Argentino",
+  "posicion": "Mediocampista",
+  "equipo_id": {
+    "$oid": "664137be92b58760886003c4"
+  }
+},
+{
+  "_id": {
+    "$oid": "66413bbb0000000000a3a6d6"
+  },
+  "nombre": "Mario Balotelli",
+  "fecha_nacimiento": "1990-08-12",
+  "nacionalidad": "Italiano",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "664137be92b58760886003c4"
+  }
 }]

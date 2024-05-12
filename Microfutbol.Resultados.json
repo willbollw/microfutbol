@@ -6,8 +6,41 @@
     "$oid": "66410db600000000007f5a61"
   },
   "resultado": "3-2",
-  "detalles": "Goles de Juan Perez",
+  "detalles": "Goles de Juan Perez y Andrés Guardado",
   "ganador": {
     "$oid": "6640fb9fd64580bae816f529"
   }
+},
+{
+  "_id": {
+    "$oid": "6641409f92b58760886003cc"
+  },
+  "detalles": "Gol de Andrés Iniesta",
+  "encuentro_id": {
+    "$oid": "66413ddf92b58760886003c8"
+  },
+  "ganador": "664137be92b58760886003c4",
+  "resultado": "1-0"
+},
+{
+  "_id": {
+    "$oid": "6641409f92b58760886003cd"
+  },
+  "detalles": "Goles de Diego López y Leonardo Bonucci",
+  "encuentro_id": {
+    "$oid": "66413df592b58760886003c9"
+  },
+  "ganador": "66410c152f8a2a7de1f3ffae",
+  "resultado": "2-0"
+},
+{
+  "_id": {
+    "$oid": "664140a092b58760886003ce"
+  },
+  "detalles": "Goles de Sergio Agüero, Ángel Di María y Jorge Álvarez",
+  "encuentro_id": {
+    "$oid": "66413e0692b58760886003ca"
+  },
+  "ganador": "664137be92b58760886003c4",
+  "resultado": "2-1"
 }]
