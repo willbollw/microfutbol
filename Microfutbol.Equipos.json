@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  },
+  "nombre": "Los Halcones",
+  "entrenador_id": {
+    "$oid": "6640f7fed64580bae816f51e"
+  }
+},
+{
+  "_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  },
+  "entrenador_id": {
+    "$oid": "66410be42f8a2a7de1f3ffad"
+  },
+  "nombre": "Águilas"
+}]

@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6640f85cd64580bae816f520"
+  },
+  "nombre": "Ana Martínez",
+  "fecha_nacimiento": "1982-03-22",
+  "nacionalidad": "Colombiana",
+  "experiencia": "Árbitro desde 2010"
+}]

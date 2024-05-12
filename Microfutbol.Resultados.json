@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "66410e7100000000007f5a62"
+  },
+  "encuentro_id": {
+    "$oid": "66410db600000000007f5a61"
+  },
+  "resultado": "3-2",
+  "detalles": "Goles de Juan Perez",
+  "ganador": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+}]

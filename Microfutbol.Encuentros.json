@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "66410db600000000007f5a61"
+  },
+  "fecha": "2024-06-20",
+  "hora": "15:00",
+  "lugar": "Estadio Central",
+  "equipos": [
+    {
+      "$oid": "6640fb9fd64580bae816f529"
+    },
+    {
+      "$oid": "66410c152f8a2a7de1f3ffae"
+    }
+  ],
+  "arbitro_id": {
+    "$oid": "6640f85cd64580bae816f520"
+  }
+}]

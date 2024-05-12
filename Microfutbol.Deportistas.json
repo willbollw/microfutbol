@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6640fd28d64580bae816f534"
+  },
+  "nombre": "Juan Perez",
+  "fecha_nacimiento": "1990-04-15",
+  "nacionalidad": "Colombiana",
+  "posicion": "Delantero",
+  "equipo_id": {
+    "$oid": "6640fb9fd64580bae816f529"
+  }
+},
+{
+  "_id": {
+    "$oid": "66410c662f8a2a7de1f3ffb0"
+  },
+  "equipo_id": {
+    "$oid": "66410c152f8a2a7de1f3ffae"
+  },
+  "fecha_nacimiento": "1998-08-05",
+  "nacionalidad": "Colombiana",
+  "nombre": "Jorge Álvarez",
+  "posicion": "Arquero"
+}]

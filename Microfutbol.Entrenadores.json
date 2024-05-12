@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6640f7fed64580bae816f51e"
+  },
+  "nombre": "Carlos Gomez",
+  "fecha_nacimiento": "1975-08-30",
+  "nacionalidad": "Colombiana",
+  "historial": "Entrenador nivel 2 desde 2015"
+},
+{
+  "_id": {
+    "$oid": "66410be42f8a2a7de1f3ffad"
+  },
+  "fecha_nacimiento": "1980-09-05",
+  "historial": "Entrenador nivel 1 desde 2014",
+  "nacionalidad": "Colombiana",
+  "nombre": "Javier Bolaños"
+}]
